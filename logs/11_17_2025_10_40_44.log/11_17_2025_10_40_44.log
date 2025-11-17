@@ -1,0 +1,2 @@
+[ 2025-11-17 10:40:45,235 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2025-11-17 10:40:55,874 ] 20 root - INFO - Initiate the data ingestion
