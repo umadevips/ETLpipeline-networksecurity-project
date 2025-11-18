@@ -4,6 +4,6 @@ My main focus as an MLOps is how to track the experiments and version them using
 
 Pushing final model artifacts to aws s3 buckets
 
-Building docker image and pushing it to aws ecr using github actions 
+Building dockerfile and docker image, pushing it to aws ecr using github actions.
 
 ... and final deployment to aws ec2
